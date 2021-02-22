@@ -1,0 +1,3 @@
+export const NEWS_LOADING = 'NEWS_LOADING';
+export const NEWS_LOAD_SUCCESS = 'NEWS_LOAD_SUCCESS';
+export const NEWS_LOAD_ERROR = 'NEWS_LOAD_ERROR';
